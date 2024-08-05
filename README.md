@@ -121,7 +121,7 @@ This script adjusts bids based on weather conditions, allowing for more effectiv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/google-ads-scripts.git
+   git clone https://github.com/iGenerateDigital/google-ads-scripts.git
    ```
 2. Navigate to the script directory you wish to use:
    ```bash
