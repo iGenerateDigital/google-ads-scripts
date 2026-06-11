@@ -60,4 +60,4 @@ MIT. See `LICENSE`.
 
 ## Contact
 
-Open-source inquiries: open-source@weblifter.com.au
+Open-source inquiries: info@weblifter.com.au
